@@ -1,8 +1,8 @@
 [README.md](https://github.com/user-attachments/files/31565369/README.md)
 
-# Tenda Validation Helper v3.0
+# Validation Helper v3.0
 
-Automação criada para otimizar o processo de validação de cadastros na plataforma da Tenda.
+Ferramenta desenvolvida para automatizar um processo interno de validação em uma plataforma do setor imobiliário durante minha atuação em Customer Success.
 
 ## Problema
 
